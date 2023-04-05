@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>373737.png</file>
+        <file>9545d9.png</file>
+        <file>BreakPassword.otf</file>
+        <file>res/bg.jpg</file>
+        <file>res/block_01.png</file>
+        <file>res/block_05.png</file>
+        <file>res/crate_02.png</file>
+        <file>res/crate_27.png</file>
+        <file>res/player_02.png</file>
+        <file>res/player_11.png</file>
+        <file>res/player_20.png</file>
+        <file>res/player_23.png</file>
+    </qresource>
+</RCC>
